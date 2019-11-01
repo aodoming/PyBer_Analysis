@@ -21,10 +21,10 @@ Rural City Type: The rural city type on the other hand experienced the highest i
         
         
         
+        
                  
 Write a summary on what the multiple line graph tells you about the fares for each city type over time.   
 
-                 Generally, some months have higher fares than others in all 3 cities.
 Urban City Type: In the urban city fares are relatively high at the beginning of the month than at months end.
                  Fares are the highest in March. And comparatively, the urban city sees a frequent fluctuation in fares,
                  
@@ -35,4 +35,4 @@ Suburban City Type:The peek fare occurs in the month of April. Interestingly, th
 Rural City Type: Fares overtime, is almost linear in comaprison to the other cities. A few instances of high fare prices as seen in Feb,
                  end of Feb, begining March, beginning April.
                  
-                 
+                 Generally, some months have higher fares than others in all 3 cities.
