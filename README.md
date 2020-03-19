@@ -34,7 +34,10 @@ You ahve been tasked by our CEO to create an overall snapshot of the ride-sharin
       This too could be as a result of the low counts in total drivers and total rides. The fewer the drivers and rides, 
       the more expensive the fares.
      
-                 
+     
+     
+    
+   
 * Write a summary on what the multiple line graph tells you about the fares for each city type over time.   
 
 
