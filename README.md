@@ -41,6 +41,7 @@ You ahve been tasked by our CEO to create an overall snapshot of the ride-sharin
 * Write a summary on what the multiple line graph tells you about the fares for each city type over time.   
 
 
+
 ![](https://github.com/aodoming/PyBer_Analysis_ADominguez/blob/master/pics/line_plot.png)
 
 
