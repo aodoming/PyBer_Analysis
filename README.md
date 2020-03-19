@@ -17,6 +17,7 @@ You ahve been tasked by our CEO to create an overall snapshot of the ride-sharin
 
  ![](https://github.com/aodoming/PyBer_Analysis_ADominguez/blob/master/pics/summary_df.png)
  
+ 
     * Urban City Type: 
       The urban city type had the majority total rides and total drivers, which also translates into the highest
       total fare of the 3 city types. It is safe to say that the large number of total drivers and total rides in urban,
@@ -36,7 +37,9 @@ You ahve been tasked by our CEO to create an overall snapshot of the ride-sharin
                  
 * Write a summary on what the multiple line graph tells you about the fares for each city type over time.   
 
+
 ![](https://github.com/aodoming/PyBer_Analysis_ADominguez/blob/master/pics/line_plot.png)
+
 
      * Urban City Type: 
        In the urban city fares are relatively high at the beginning of the month than at months end.
@@ -49,12 +52,17 @@ You ahve been tasked by our CEO to create an overall snapshot of the ride-sharin
      * Rural City Type:
        Fares overtime, is almost linear in comaprison to the other cities. A few instances of high fare prices as seen in Feb, 
        end of Feb, begining March, beginning April. Generally, some months have higher fares than others in all 3 cities.
+       
 
 ### OTHER RESULTS
+
 * Pie Chart
+
 ![](https://github.com/aodoming/PyBer_Analysis_ADominguez/blob/master/pics/pie_chart.png)
 
+
 * Scatter Plot
+
 ![](https://github.com/aodoming/PyBer_Analysis_ADominguez/blob/master/pics/scatter_plot.png)
                  
 ### THINGS LEARNED
